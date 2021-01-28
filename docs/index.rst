@@ -7,7 +7,7 @@ Welcome to kvJSON's documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    
    Initializing-your-project
    Adding-an-entry
