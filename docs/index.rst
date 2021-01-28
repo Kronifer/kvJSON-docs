@@ -10,8 +10,13 @@ Welcome to kvJSON's documentation!
    :maxdepth: 2
    
    Initializing-your-project
+   Adding-an-entry
+   Getting-an-entry
 
-
+Install with: 
+.. code-block:: 
+  
+   pip install kvJSON
 
 Indices and tables
 ==================
