@@ -7,20 +7,19 @@ Welcome to kvJSON's documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    
    Initializing-your-project
-   Adding-an-entry
-   Getting-an-entry
+   Adding-data
+   Getting-data
+   Deleting-data
+   Replacing-data
 
-Install with: 
-.. code-block:: 
-  
+
+Install with:
+
+.. code:: sh
+
    pip install kvJSON
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
