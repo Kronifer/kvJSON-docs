@@ -6,6 +6,10 @@
 Welcome to kvJSON's documentation!
 ==================================
 
+     kvJSON is a python module that makes it 
+easier to store data in a JSON file, using a 
+key-value system.
+
 .. toctree::
    :maxdepth: 2
    
