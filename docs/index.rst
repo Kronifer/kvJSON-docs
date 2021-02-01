@@ -14,6 +14,8 @@ Welcome to kvJSON's documentation!
    Getting-data
    Deleting-data
    Replacing-data
+   Encrypting-data
+   Getting-encryption-keys
 
 kvJSON is a python module that makes it easier 
 to store data in a JSON file, 
