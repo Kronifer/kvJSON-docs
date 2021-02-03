@@ -15,6 +15,7 @@ kvJSON.addData(key, value):
 
     :value: The data you want stored. Any native type of data should work fine.
 
+
 kvJSON.getData(key):
     Used to store the value associated with a key in a variable.
     
