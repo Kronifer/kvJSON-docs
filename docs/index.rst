@@ -17,6 +17,7 @@ Welcome to kvJSON's documentation!
    Encrypting-data
    Getting-encryption-keys
    Decrypting-data
+   Function-index
 
 kvJSON is a python module that makes it easier 
 to store data in a JSON file, 
