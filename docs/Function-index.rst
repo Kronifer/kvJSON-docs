@@ -23,7 +23,7 @@ kvJSON.getData(key):
 
 
 kvJSON.replaceData(key, newValue):
-    USed to update data under a certain key.
+    Used to update data under a certain key.
 
     :key: The key related to the data you want to update.
 
