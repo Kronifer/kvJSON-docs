@@ -23,7 +23,7 @@ copyright = '2021, Kronifer'
 author = 'Kronifer'
 
 # The full version, including alpha/beta/rc tags
-release = '1.3.4'
+release = '1.3.5'
 
 
 # -- General configuration ---------------------------------------------------
