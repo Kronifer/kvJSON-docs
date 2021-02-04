@@ -62,4 +62,13 @@ kvJSON.decryptData(keyInData, encryptionKey):
     Used to decrypt data in storage, but can also be used to decrypt data and store it in a variable.
     
     :keyInData: The key related to the encrypted data.
+
     :encryptionKey: The encryption key related to the encrypted data.
+
+
+kvJSON.groupData(listOfKeys, groupName):
+    Used to group data, to pull all values into a list later.
+
+    :listOfKeys: The list of keys corresponding to the values you want grouped.
+
+    :groupName: What you want to call the group.
