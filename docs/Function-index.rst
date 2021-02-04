@@ -47,8 +47,12 @@ kvJSON.getEncryptKey(number):
     *Make sure that the number you use is in quotes!*
     Used to retrieve an encryption key to decrypt data.
     
-    :number: The number correlating with the data encrypted. Ex: 
+    :number: The number correlating with the data encrypted. 
+    
+    Example:
+    
     .. code:: py
+    
         kvJSON.encryptData("key")
         # Get encryption key for first and only data encrypted.
         encryptKey = kvJSON.getEncryptKey("1")
